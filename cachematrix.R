@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## @author Colin Kegler
+## @file cachematrix.R
+## 
+## ProgrammingAssignment2 for Coursera/R_Programming/week3
 
 ## Write a short comment describing this function
 
